@@ -1,0 +1,23 @@
+# Database Data (Do not commit!)
+neo4j/
+langfuse/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.ipynb_checkpoints
+
+# Chainlit
+.chainlit/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store

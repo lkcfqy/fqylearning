@@ -1,0 +1,13 @@
+langchain>=0.3.0
+langchain-community
+langchain-ollama
+langchain-neo4j
+langgraph
+langfuse
+neo4j
+sentence-transformers
+torch
+accelerate
+bitsandbytes
+chainlit
+langchain-huggingface
